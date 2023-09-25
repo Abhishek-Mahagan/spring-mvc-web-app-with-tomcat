@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [25/Sep/2023:16:57:41 +0530] "GET /spring-mvc-web-app-with-tomcat HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [25/Sep/2023:17:08:39 +0530] "GET /spring-mvc-web-app-with-tomcat HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [25/Sep/2023:17:09:50 +0530] "GET /spring-mvc-web-app-with-tomcat HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [25/Sep/2023:17:12:23 +0530] "GET /spring-mvc-web-app-with-tomcat HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [25/Sep/2023:17:12:23 +0530] "GET /spring-mvc-web-app-with-tomcat/ HTTP/1.1" 404 786
